@@ -1,0 +1,2 @@
+# stackmap.nvim
+lua plugin 
